@@ -126,7 +126,9 @@ span {
 .btn-null:hover {
   color: hsl(223, 47%, 23%);
 }
-
+.bottom {
+  font-size: 1rem;
+}
 @media screen and (min-width: 500px) {
   .card {
     max-width: 40rem;
